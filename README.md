@@ -1,2 +1,8 @@
-# aws-lambda-unzip-file
-A simple code to unzip files on AWS Lambda
+lambdaUnzipper
+
+2015/6/12 AWS Lambda sample function.  
+unzip file and put contents to target S3 bucket.
+
+http://qiita.com/saku/items/52c6a8ddd1dc510e6bc7
+
+MIT License

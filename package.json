@@ -1,0 +1,12 @@
+{
+  "name": "lambda-unzipper-set",
+  "version": "1.0.0",
+  "description": "unzip Retty Design Template zip file, from CircleCI",
+  "author": "saku",
+  "license": "MIT",
+  "devDependencies": {
+    "async":      "1.2.0",
+    "jszip":      "2.5.0",
+    "mime-types": "2.0.13"
+  }
+}
